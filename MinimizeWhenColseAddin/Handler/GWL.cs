@@ -1,16 +1,4 @@
-﻿//-------------------------------------------------------------------
-// Copyright (c) 2020 EMSystems LTD. All Rights Reserved.
-// ネームスペース      ：MinimizeWhenColseAddin.Handler
-// ファイル名称        ：GWL
-// 新規作成者          ：EM-劉嘉豪
-// 新規作成日          ：2020/04/02 16:38:25
-// ファイルメモ        ：
-
-/*-< 変更履歴 >------------------------------------------------------
-*/
-//-------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

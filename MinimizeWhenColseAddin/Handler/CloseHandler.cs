@@ -1,16 +1,4 @@
-﻿//-------------------------------------------------------------------
-// Copyright (c) quanljh@gmail.com All Rights Reserved.
-// ネームスペース      ：MinimizeWhenColseAddin.Handler
-// ファイル名称        ：CloseHandler
-// 新規作成者          ：EM-劉嘉豪
-// 新規作成日          ：2020/04/02 13:49:43
-// ファイルメモ        ：
-
-/*-< 変更履歴 >------------------------------------------------------
-*/
-//-------------------------------------------------------------------
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.InteropServices;
